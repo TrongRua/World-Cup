@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'daticon';
+  src:  url('fonts/daticon.eot?i7v9ud');
+  src:  url('fonts/daticon.eot?i7v9ud#iefix') format('embedded-opentype'),
+    url('fonts/daticon.ttf?i7v9ud') format('truetype'),
+    url('fonts/daticon.woff?i7v9ud') format('woff'),
+    url('fonts/daticon.svg?i7v9ud#daticon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'daticon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pow:before {
+  content: "\e90e";
+}
+.icon-heart:before {
+  content: "\e90f";
+}
+.icon-arrow:before {
+  content: "\e910";
+}
+.icon-up:before {
+  content: "\e911";
+}
+.icon-refresh:before {
+  content: "\e912";
+}
+.icon-caret:before {
+  content: "\e913";
+}
+.icon-user:before {
+  content: "\e914";
+}
+.icon-menu:before {
+  content: "\e90d";
+}
+.icon-closer:before {
+  content: "\e900";
+}
+.icon-alert:before {
+  content: "\e901";
+}
+.icon-back:before {
+  content: "\e902";
+}
+.icon-camera:before {
+  content: "\e903";
+}
+.icon-checked:before {
+  content: "\e904";
+}
+.icon-copy:before {
+  content: "\e905";
+}
+.icon-drop:before {
+  content: "\e906";
+}
+.icon-email:before {
+  content: "\e907";
+}
+.icon-more:before {
+  content: "\e908";
+}
+.icon-note:before {
+  content: "\e909";
+}
+.icon-script:before {
+  content: "\e90a";
+}
+.icon-search:before {
+  content: "\e90b";
+}
+.icon-true:before {
+  content: "\e90c";
+}
